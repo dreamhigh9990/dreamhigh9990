@@ -34,11 +34,11 @@ I'm Web & Mobile App Developer. I work as a software engineer during the day. At
 - 🤟🏻 I'm an astrophysics geek, amatuer swimmer, and football lover. I also write pieces of poetry, blogs, and play badminton!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
 
----
+<!-- ---
 
 ### 🤝🏻 Connect, Follow, Subscribe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibri-calhoun/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibri-calhoun/)   -->
 
 ---
 
